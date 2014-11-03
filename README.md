@@ -1,6 +1,16 @@
 # Modificame
 
-Este es un primer texto para *modificar*, **cambiar** y jugar.
+## Mis vacaciones 
+
+Estos son algunos de los lugares donde quisiera ir de vacaciones:
+
+- Natal
+- Cuba
+- México
+
+Te muestro algunas fotos:
+
+
 
 > Es nuestro arenero personal
 
